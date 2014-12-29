@@ -14,4 +14,8 @@ Source are made with :
 
 Minimum spec : Android Jelly Bean, Stable internet connection
 
+_it works for some logedin on http://binusmaya.binus.ac.id/_
+
+Please Download (Our) APK here : http://s.id/bimaydroid we not be responsible on any other wrong links.
+
 _We not store password / binusian id to server :) all process begin without proxy server or anything, we only crawler Binusmaya Website like as normal Browser but as like robot to :)_
